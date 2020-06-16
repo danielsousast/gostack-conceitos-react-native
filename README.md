@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalidades-da-aplicacao">Licença</a>
+  <a href="#funcionalidades-da-aplicacao">Funcionalidades da aplicação</a>
 </p>
 
 ## Sobre o desafio
